@@ -8,4 +8,5 @@ Compilar: javac *.java
 
 Executar:
 java CriaEntrada
+
 java TesteFinal <arquivo_de_entrada>
