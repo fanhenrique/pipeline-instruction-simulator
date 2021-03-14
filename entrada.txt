@@ -1,0 +1,50 @@
+I0 add R7 R9 R2
+I1 or R8 R8 R5
+I2 sw R8 R2
+I3 sw R2 R9
+I4 sw R5 R7
+I5 or R5 R6 R7
+I6 lw R4 R2
+I7 sw R5 R3
+I8 sw R2 R0
+I9 sub R0 R0 R0
+I10 lw R4 R9
+I11 lw R2 R7
+I12 lw R4 R9
+I13 sw R5 R7
+I14 sw R9 R8
+I15 lw R3 R7
+I16 sw R5 R7
+I17 lw R8 R0
+I18 or R9 R4 R2
+I19 sub R0 R4 R0
+I20 sw R6 R7
+I21 and R6 R3 R2
+I22 sw R9 R5
+I23 or R6 R9 R1
+I24 and R5 R3 R7
+I25 sub R5 R4 R3
+I26 sw R5 R0
+I27 lw R0 R1
+I28 sw R5 R2
+I29 sw R0 R0
+I30 and R5 R2 R3
+I31 and R8 R0 R1
+I32 and R3 R8 R1
+I33 add R7 R3 R2
+I34 sw R2 R9
+I35 and R1 R8 R0
+I36 lw R5 R2
+I37 lw R6 R2
+I38 sub R7 R0 R7
+I39 or R8 R5 R7
+I40 lw R1 R7
+I41 and R4 R4 R1
+I42 sw R0 R6
+I43 add R5 R8 R9
+I44 sub R3 R4 R2
+I45 or R9 R2 R0
+I46 sub R6 R5 R8
+I47 and R5 R1 R1
+I48 sw R0 R8
+I49 sub R5 R2 R0
