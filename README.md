@@ -7,5 +7,5 @@ Simulador de instruções pipeline
 Compilar: javac *.java 
 
 Executar:
-	java CriaEntrada
-	java TesteFinal <arquivo_de_entrada>
+java CriaEntrada
+java TesteFinal <arquivo_de_entrada>
