@@ -7,6 +7,6 @@ Trabalho da discipliande de programação orientada a objetos.
 `javac *.java`
 
 ### Run:
-java CriaEntrada
+`java CriaEntrada`
 
-java TesteFinal <arquivo_de_entrada>
+`java TesteFinal <arquivo_de_entrada>`
